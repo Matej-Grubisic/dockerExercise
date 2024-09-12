@@ -1,3 +1,5 @@
+# Completed
+
 # React Docker Tutorial
 
 In this tutorial you will learn how to containerize a React app using
